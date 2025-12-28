@@ -1,0 +1,13 @@
+<div style="background: rgba(0,0,0,0.5); padding:15px; border-radius:10px; display:inline-block;">
+  <h2 style="color:yellow;">📬 Contact Me</h2>
+  <p style="font-size:18px; line-height:1.6;">
+    📧 Email:
+    <a href="mailto:sargana768@gmail.com" style="color:white; text-decoration:underline;">
+      sargana768@gmail.com
+    </a><br>
+    📱 Phone:
+    <a href="tel:+923418225369" style="color:white; text-decoration:underline;">
+      +92 341 8225369
+    </a>
+  </p>
+</div>
